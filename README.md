@@ -1,2 +1,2 @@
 # JavaEE_Lab_work_1
- 
+ In this tutorial, I’ll be explaining how to create a simple Liquor Store web application that will intake the client requests of liquor types and responds with a list of available brands. I will be using Intellij Idea Community Edition as the IDE. Since the community edition does not provide the capability to deploy the tomcat server within the IDE, we have to manually deploy the war file into the tomcat server. To make this process easier, we can use tomcat maven plugin to deploy the war file. Please follow this tutorial if you are not familiar with the tomcat maven plugin.
